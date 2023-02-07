@@ -1,4 +1,5 @@
 Task - 1 : Run a simple Dataflow job
+
 bq mk lab
 
 gsutil cp gs://cloud-training/gsp323/lab.csv .
@@ -9,8 +10,11 @@ gsutil cp gs://cloud-training/gsp323/lab.schema .
 
 cat lab.schema
 
+
 Task - 2 : Run a simple Dataproc job
 This has to be done mannually.
+
+
 Task - 3 : Run a simple Dataprep job
 This has to be done mannually.
 
